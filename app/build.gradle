@@ -6,8 +6,8 @@ android {
 
     defaultConfig {
         applicationId "com.example.zygis.opencv_test"
-        minSdkVersion 19
-        targetSdkVersion 23
+        minSdkVersion 8
+        targetSdkVersion 15
         versionCode 1
         versionName "1.0"
     }
